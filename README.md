@@ -5,10 +5,10 @@ A full-stack Task Manager application built using the MERN stack.
 ## Live Demo
 
 **Frontend Live Link:**
-
+https://task-manager-git-main-ravigopi857-projects.vercel.app/login
 
 **Backend Live Link:**
-YOUR_RENDER_URL
+https://task-manager-backend-y60n.onrender.com
 
 ---
 
