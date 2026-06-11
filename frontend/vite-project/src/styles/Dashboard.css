@@ -1,0 +1,29 @@
+button:hover{
+    opacity:0.8;
+}
+button{
+    background-color:#2563eb;
+
+}
+button:hover{
+    opacity:0.9
+}
+.task-card {
+  background: white;
+  color: black;
+  padding: 15px;
+  margin: 20px auto;
+  width: 60%;
+  border-radius: 10px;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.2);
+}
+.logout-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+input{
+    width:300px;
+    padding:10px;
+    border-radius:5px;
+}
